@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "C:/Users/Lenovo/Documents/GitHub/Cres-PCB1/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/Lenovo/Documents/GitHub/Cres-PCB1/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "C:/Users/Lenovo/Documents/GitHub/Cres-PCB1/Type-C.pretty")(options "")(descr ""))
+)
